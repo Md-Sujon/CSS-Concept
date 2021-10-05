@@ -1,0 +1,18 @@
+.box{
+    width:400px;
+    height:200px;
+    border: 2px solid peru;
+    overflow:scroll;
+}
+.box2{
+    margin-top: 20px;
+    height:200px;
+    width:400px;
+    border: 2px solid palevioletred;
+    overflow:scroll;
+}
+.image {
+    width:200px;
+    height:200px;
+    
+}
